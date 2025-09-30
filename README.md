@@ -18,8 +18,6 @@ Enabled an automated, daily updated Qlik Sense dashboard that replaced manual re
 
 
 ## How It Works
-### Architecture Overview
-The solution consists of a main orchestrator script and modular export scripts that work together to automate the entire data extraction and loading process.
 
 ### Main Orchestrator (call_maintenance_exports.py)
 This script serves as the central controller that:
